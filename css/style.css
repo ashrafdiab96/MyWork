@@ -1,0 +1,10 @@
+.content {
+    background-color: #f4f3ee;
+    padding: 50px;
+}
+
+.hint {
+    color: red;
+    font-size: 2rem;
+    font-weight: 900;
+}
